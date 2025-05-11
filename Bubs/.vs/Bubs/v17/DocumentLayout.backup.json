@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|solutionrelative:Bubs\\Bubs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\MathBubs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|solutionrelative:Bubs\\MathBubs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\Bubs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|solutionrelative:Bubs\\Bubs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\MathBubs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|solutionrelative:Bubs\\MathBubs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54F9E583-59A5-4D8E-BB96-7C2C088DF72A}|Bubs\\Bubs.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\myConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Bubs\\Bubs.cpp",
               "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\Bubs.cpp",
               "RelativeToolTip": "Bubs\\Bubs.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-29T19:25:13.913Z",
               "IsPinned": true,
@@ -44,29 +44,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MathBubs.cpp",
               "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\MathBubs.cpp",
               "RelativeDocumentMoniker": "Bubs\\MathBubs.cpp",
-              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\MathBubs.cpp*",
-              "RelativeToolTip": "Bubs\\MathBubs.cpp*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBgAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\MathBubs.cpp",
+              "RelativeToolTip": "Bubs\\MathBubs.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-29T20:55:43.408Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Bubs.h",
               "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\Bubs.h",
               "RelativeDocumentMoniker": "Bubs\\Bubs.h",
               "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Bubs\\Bubs\\Bubs.h",
               "RelativeToolTip": "Bubs\\Bubs.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-04-29T20:55:26.848Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -79,7 +81,12 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T23:28:14.277Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
