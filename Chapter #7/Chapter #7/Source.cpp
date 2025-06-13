@@ -1,105 +1,39 @@
 #include <iostream>
-#include <string>
-#include <cstdint>
-#include <algorithm>
 #include <vector>
-#include <array>  
-#include <ctime>
+#include <sstream>
+#include <string>
 #include <cstdlib>
-#include <functional>
+#define  NDEBUG
 
-#define MAX_CIN 32767
-
-typedef int (*arithmeticFnc)(int, int);
-
-inline void getNum(int& num)
+int binarySearch(int* array, int target, int min, int max)
 {
-	std::cin >> num;
+	if (min > max)
+		return -1;
 
-	std::cin.clear();
-	std::cin.ignore(MAX_CIN, '\n');
+	if (array[min + ((max - min) / 2)] == target)
+		return min + ((max - min) / 2);
+
+	if (array[min + ((max - min) / 2)] > target)
+		return binarySearch(array, target, min, ( min + ((max - min) / 2) - 1) );
+
+	if (array[min + ((max - min) / 2)] < target)
+		return binarySearch(array, target, ( min + ((max - min) / 2) + 1), max);
 }
-
-inline void getOperetion(std::string* op)
-{
-
-	do
-	{
-		std::cout << "enter the operation :";
-		std::cin >> *op;
-
-
-	} while (*op != "*" && *op != "/" && *op != "+" && *op != "-");
-}
-
-int add(int a, int b)
-{
-	return a + b;
-}
-
-int subtract(int a, int b)
-{
-	return a - b;
-}
-
-int multiply(int a, int b)
-{
-	return a * b;
-}
-
-int divide(int a, int b)
-{
-	return a / b;
-}
-
-struct arithmetic
-{
-	std::string oper;
-	arithmeticFnc  fncPtr;
-};
-
-static std::array<arithmetic, 4> arithmeticArray 
-{ {
-	{"+",  add},
-	{"-",  subtract},
-	{"/", divide },
-	{"*", multiply }
-}};
-
-arithmeticFnc getArithmeticFnc(std::string op)
-{
-	for (const auto whyOp : arithmeticArray)
-	{
-		if (whyOp.oper == op)
-		{
-			return whyOp.fncPtr;
-		}
-	}
-	return add; 
-}
-
-int calculation(int num1, int num2, arithmeticFnc fncPtr)
-{
-	return fncPtr(num1, num2);
-}
-
-
 
 int main()
 {
-	int num1;
-	std::cout << "enter the num 1 :";
-	getNum(num1);
+	int array[] = { 4, 7, 9, 13, 15, 19, 22, 24, 28, 33, 37, 41, 43, 47, 50 };
 
-	int num2;
-	std::cout << "enter the num 2 :";
-	getNum(num2);
+	std::cout << "Enter a number: ";
+	int x;
+	std::cin >> x;
 
-	std::string op;
-	getOperetion(&op);
-	arithmeticFnc fncPtr{ getArithmeticFnc(op) };
+	int index = binarySearch(array, x, 0, 14);
 
-	std::cout << calculation(num1, num2, fncPtr);
+	if (array[index] == x)
+		std::cout << "Good! Your value " << x << " is on position " << index << " in array!\n";
+	else
+		std::cout << "Fail! Your value " << x << " isn't in array!\n";
 
 	return 0;
 }
