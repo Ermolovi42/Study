@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|solutionrelative:Chapter #8\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|solutionrelative:Chapter #8\\Point3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|solutionrelative:Chapter #8\\Vector3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|solutionrelative:Chapter #8\\Vector3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0338D7EB-10D9-419A-9A43-CA5E7D5DAB10}|Chapter #8\\Chapter #8.vcxproj|solutionrelative:Chapter #8\\Point3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\main.cpp",
+              "RelativeDocumentMoniker": "Chapter #8\\main.cpp",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\main.cpp",
+              "RelativeToolTip": "Chapter #8\\main.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T10:42:45.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Point3D.h",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.h",
+              "RelativeDocumentMoniker": "Chapter #8\\Point3D.h",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.h",
+              "RelativeToolTip": "Chapter #8\\Point3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T15:25:28.588Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector3D.h",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.h",
+              "RelativeDocumentMoniker": "Chapter #8\\Vector3D.h",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.h",
+              "RelativeToolTip": "Chapter #8\\Vector3D.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-16T15:25:15.609Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Point3D.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.cpp",
+              "RelativeDocumentMoniker": "Chapter #8\\Point3D.cpp",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Point3D.cpp*",
+              "RelativeToolTip": "Chapter #8\\Point3D.cpp*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T15:24:57.845Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vector3D.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.cpp",
+              "RelativeDocumentMoniker": "Chapter #8\\Vector3D.cpp",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\Chapter #8\\Chapter #8\\Vector3D.cpp",
+              "RelativeToolTip": "Chapter #8\\Vector3D.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-16T15:24:35.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 196,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
