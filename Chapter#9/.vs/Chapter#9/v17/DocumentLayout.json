@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ermol\\source\\repos\\Chapter#9\\",
+  "WorkspaceRootPath": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67EB843C-4324-49AF-9DE3-3652859757D1}|Chapter#9\\Chapter#9.vcxproj|C:\\Users\\ermol\\source\\repos\\Chapter#9\\Chapter#9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{67EB843C-4324-49AF-9DE3-3652859757D1}|Chapter#9\\Chapter#9.vcxproj|solutionrelative:Chapter#9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ermol\\source\\repos\\Study\\Chapter#9\\Chapter#9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chapter#9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\ermol\\source\\repos\\Chapter#9\\Chapter#9\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#9\\Chapter#9\\main.cpp",
               "RelativeDocumentMoniker": "Chapter#9\\main.cpp",
-              "ToolTip": "C:\\Users\\ermol\\source\\repos\\Chapter#9\\Chapter#9\\main.cpp",
-              "RelativeToolTip": "Chapter#9\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#9\\Chapter#9\\main.cpp*",
+              "RelativeToolTip": "Chapter#9\\main.cpp*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-21T06:54:27.333Z",
               "EditorCaption": ""

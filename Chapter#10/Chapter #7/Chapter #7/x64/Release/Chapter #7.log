@@ -1,0 +1,7 @@
+﻿  Source.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Ренат\source\repos\Chapter #7\Chapter #7\Source.cpp(20): warning C4715: binarySearch: значение возвращается не при всех путях выполнения
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Chapter #7.vcxproj -> C:\Users\Ренат\source\repos\Chapter #7\x64\Release\Chapter #7.exe

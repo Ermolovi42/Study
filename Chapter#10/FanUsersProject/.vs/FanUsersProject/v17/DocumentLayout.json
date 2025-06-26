@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\FanUsersProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2581600-2E22-4E4F-A932-4C15103AC3D0}|FanUsersProject\\FanUsersProject.vcxproj|C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\FanUsersProject\\FanUsersProject\\FanUsersProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2581600-2E22-4E4F-A932-4C15103AC3D0}|FanUsersProject\\FanUsersProject.vcxproj|solutionrelative:FanUsersProject\\FanUsersProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FanUsersProject.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\FanUsersProject\\FanUsersProject\\FanUsersProject.cpp",
+              "RelativeDocumentMoniker": "FanUsersProject\\FanUsersProject.cpp",
+              "ToolTip": "C:\\Users\\\u0420\u0435\u043D\u0430\u0442\\source\\repos\\FanUsersProject\\FanUsersProject\\FanUsersProject.cpp",
+              "RelativeToolTip": "FanUsersProject\\FanUsersProject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T06:52:42.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
