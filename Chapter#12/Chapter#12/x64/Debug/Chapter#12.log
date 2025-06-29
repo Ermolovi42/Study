@@ -1,0 +1,4 @@
+﻿  Chapter#12.cpp
+C:\Users\ermol\source\repos\Study\Chapter#12\Chapter#12\Chapter#12.cpp(95,11): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\ermol\source\repos\Study\Chapter#12\Chapter#12\Chapter#12.cpp(116,13): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Chapter#12.vcxproj -> C:\Users\ermol\source\repos\Study\Chapter#12\x64\Debug\Chapter#12.exe

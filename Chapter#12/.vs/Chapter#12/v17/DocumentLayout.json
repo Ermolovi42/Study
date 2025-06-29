@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D10DFD1-B306-4BD9-AA99-6F0E5527EF05}|Chapter#12\\Chapter#12.vcxproj|C:\\Users\\ermol\\source\\repos\\Study\\Chapter#12\\Chapter#12\\Chapter#12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4D10DFD1-B306-4BD9-AA99-6F0E5527EF05}|Chapter#12\\Chapter#12.vcxproj|solutionrelative:Chapter#12\\Chapter#12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter#12.cpp",
+              "DocumentMoniker": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#12\\Chapter#12\\Chapter#12.cpp",
+              "RelativeDocumentMoniker": "Chapter#12\\Chapter#12.cpp",
+              "ToolTip": "C:\\Users\\ermol\\source\\repos\\Study\\Chapter#12\\Chapter#12\\Chapter#12.cpp",
+              "RelativeToolTip": "Chapter#12\\Chapter#12.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-26T09:05:55.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
